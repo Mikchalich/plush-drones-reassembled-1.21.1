@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ESE",
+    "I#G",
+    "ELE"
+  ],
+  "key" : {
+    "#": {
+      "item": "plushdronesreassembledmod:drone_core_base"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "G": {
+      "item": "minecraft:golden_apple"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "L": {
+      "item": "minecraft:leather_chestplate"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:thad_core",
+    "count": 1
+  }
+}

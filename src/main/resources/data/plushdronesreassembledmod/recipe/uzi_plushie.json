@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GBG",
+    "PPP",
+    "#C#"
+  ],
+  "key" : {
+    "G": {
+      "item": "minecraft:gray_wool"
+    },
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "P": {
+      "item": "minecraft:purple_wool"
+    },
+    "#": {
+      "item": "minecraft:white_wool"
+    },
+    "C": {
+      "item": "plushdronesreassembledmod:uzi_core"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:uzi_plushie",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CLC",
+    "L#L",
+    "CGC"
+  ],
+  "key" : {
+    "#": {
+      "item": "plushdronesreassembledmod:drone_rotten_core_base"
+    },
+    "L": {
+      "item": "minecraft:lead"
+    },
+    "G": {
+      "item": "minecraft:golden_carrot"
+    },
+    "C": {
+      "item": "minecraft:chain"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:j_core",
+    "count": 1
+  }
+}

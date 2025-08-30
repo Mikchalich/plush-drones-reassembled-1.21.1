@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GNG",
+    "I#S",
+    "GCG"
+  ],
+  "key" : {
+    "#": {
+      "item": "plushdronesreassembledmod:drone_rotten_core_base"
+    },
+    "G": {
+      "item": "minecraft:glowstone"
+    },
+    "N": {
+      "item": "minecraft:name_tag"
+    },
+    "I": {
+      "item": "minecraft:iron_sword"
+    },
+    "S": {
+      "item": "minecraft:shield"
+    },
+    "C": {
+      "item": "minecraft:cookie"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:n_core",
+    "count": 1
+  }
+}

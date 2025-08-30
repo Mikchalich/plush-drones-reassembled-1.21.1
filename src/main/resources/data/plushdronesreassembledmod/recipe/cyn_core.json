@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ECE",
+    "N#F",
+    "EDE"
+  ],
+  "key" : {
+    "#": {
+      "item": "plushdronesreassembledmod:drone_rotten_core_base"
+    },
+    "D": {
+      "item": "minecraft:music_disc_13"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "N": {
+      "item": "minecraft:nether_wart_block"
+    },
+    "F": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "C": {
+      "item": "minecraft:cobweb"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:cyn_core",
+    "count": 1
+  }
+}

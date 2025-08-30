@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    "C#C",
+    "SBS"
+  ],
+  "key" : {
+    "#": {
+      "item": "plushdronesreassembledmod:drone_rotten_core_base"
+    },
+    "B": {
+      "item": "minecraft:brush"
+    },
+    "S": {
+      "item": "minecraft:sea_lantern"
+    },
+    "C": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:v_core",
+    "count": 1
+  }
+}

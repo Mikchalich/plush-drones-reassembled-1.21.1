@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "R#R",
+    "RRR"
+  ],
+  "key" : {
+    "#": {
+      "item": "plushdronesreassembledmod:drone_core_base"
+    },
+    "R": {
+      "item": "minecraft:rotten_flesh"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:drone_rotten_core_base",
+    "count": 1
+  }
+}

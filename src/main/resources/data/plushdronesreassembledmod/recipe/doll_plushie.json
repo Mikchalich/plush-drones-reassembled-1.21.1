@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "RRR",
+    "BCB"
+  ],
+  "key" : {
+    "P": {
+      "item": "minecraft:purple_wool"
+    },
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "R": {
+      "item": "minecraft:red_wool"
+    },
+    "C": {
+      "item": "plushdronesreassembledmod:doll_core"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:doll_plushie",
+    "count": 1
+  }
+}

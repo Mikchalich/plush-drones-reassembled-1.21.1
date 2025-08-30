@@ -1,0 +1,24 @@
+{
+  "eternal_dream": {
+    "sounds": [
+      {
+        "name": "plushdronesreassembledmod:eternal_dream",
+        "stream": true
+      }
+    ]
+  },
+  "forever": {
+    "sounds": [
+      {
+        "name": "plushdronesreassembledmod:forever",
+        "stream": true
+      }
+    ]
+  },
+  "i_love_doing_anything": {
+    "subtitle": "sound.plushdronesreassembledmod.i_love_doing_anything",
+    "sounds": [
+      "plushdronesreassembledmod:i_love_doing_anything"
+    ]
+  }
+}

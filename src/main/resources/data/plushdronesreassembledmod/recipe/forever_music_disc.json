@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LVJ",
+    "DMU",
+    "CNT"
+  ],
+  "key" : {
+    "V": {
+      "item": "plushdronesreassembledmod:v_core"
+    },
+    "D": {
+      "item": "plushdronesreassembledmod:doll_core"
+    },
+    "U": {
+      "item": "plushdronesreassembledmod:uzi_core"
+    },
+    "N": {
+      "item": "plushdronesreassembledmod:n_core"
+    },
+    "T": {
+      "item": "plushdronesreassembledmod:thad_core"
+    },
+    "L": {
+      "item": "plushdronesreassembledmod:lizzy_core"
+    },
+    "C": {
+      "item": "plushdronesreassembledmod:cyn_core"
+    },
+    "J": {
+      "item": "plushdronesreassembledmod:j_core"
+    },
+    "M": {
+      "item": "minecraft:note_block"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:forever_music_disc",
+    "count": 1
+  }
+}

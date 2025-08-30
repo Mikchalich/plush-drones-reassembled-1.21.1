@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YYY",
+    "RLR",
+    "GCG"
+  ],
+  "key" : {
+    "L": {
+      "item": "minecraft:lime_wool"
+    },
+    "G": {
+      "item": "minecraft:green_wool"
+    },
+    "R": {
+      "item": "minecraft:red_wool"
+    },
+    "Y": {
+      "item": "minecraft:yellow_wool"
+    },
+    "C": {
+      "item": "plushdronesreassembledmod:thad_core"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:thad_plushie",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "B#B",
+    "ADA"
+  ],
+  "key" : {
+    "#": {
+      "item": "plushdronesreassembledmod:drone_rotten_core_base"
+    },
+    "B": {
+      "item": "minecraft:black_dye"
+    },
+    "A": {
+      "item": "minecraft:amethyst_block"
+    },
+    "D": {
+      "item": "minecraft:iron_door"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:uzi_core",
+    "count": 1
+  }
+}

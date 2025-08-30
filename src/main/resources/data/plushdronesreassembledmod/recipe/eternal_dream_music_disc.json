@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " V ",
+    "DMU",
+    " N "
+  ],
+  "key" : {
+    "V": {
+      "item": "plushdronesreassembledmod:v_core"
+    },
+    "D": {
+      "item": "plushdronesreassembledmod:doll_core"
+    },
+    "U": {
+      "item": "plushdronesreassembledmod:uzi_core"
+    },
+    "N": {
+      "item": "plushdronesreassembledmod:n_core"
+    },
+    "M": {
+      "item": "minecraft:note_block"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:eternal_dream_music_disc",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "plushdronesreassembledmod:block/n_plushie"},
+    "facing=east": { "model": "plushdronesreassembledmod:block/n_plushie", "y": 90},
+    "facing=south": { "model": "plushdronesreassembledmod:block/n_plushie", "y": 180},
+    "facing=west": { "model": "plushdronesreassembledmod:block/n_plushie", "y":  270}
+  }
+}

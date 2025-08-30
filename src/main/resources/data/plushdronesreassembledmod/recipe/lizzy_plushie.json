@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YYY",
+    "RPR",
+    "BCB"
+  ],
+  "key" : {
+    "P": {
+      "item": "minecraft:pink_wool"
+    },
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "R": {
+      "item": "minecraft:red_wool"
+    },
+    "Y": {
+      "item": "minecraft:yellow_wool"
+    },
+    "C": {
+      "item": "plushdronesreassembledmod:lizzy_core"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:lizzy_plushie",
+    "count": 1
+  }
+}

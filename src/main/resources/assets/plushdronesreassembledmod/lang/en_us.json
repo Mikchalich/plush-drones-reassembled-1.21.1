@@ -1,0 +1,37 @@
+{
+  "item.plushdronesreassembledmod.uzi_plushie": "Uzi Plushie",
+  "block.plushdronesreassembledmod.uzi_plushie": "Uzi Plushie",
+  "item.plushdronesreassembledmod.n_plushie": "N Plushie",
+  "block.plushdronesreassembledmod.n_plushie": "N Plushie",
+  "item.plushdronesreassembledmod.v_plushie": "V Plushie",
+  "block.plushdronesreassembledmod.v_plushie": "V Plushie",
+  "item.plushdronesreassembledmod.j_plushie": "J Plushie",
+  "block.plushdronesreassembledmod.j_plushie": "J Plushie",
+  "item.plushdronesreassembledmod.cyn_plushie": "Cyn Plushie",
+  "block.plushdronesreassembledmod.cyn_plushie": "Cyn Plushie",
+  "item.plushdronesreassembledmod.doll_plushie": "Doll Plushie",
+  "block.plushdronesreassembledmod.doll_plushie": "Doll Plushie",
+  "item.plushdronesreassembledmod.lizzy_plushie": "Lizzy Plushie",
+  "block.plushdronesreassembledmod.lizzy_plushie": "Lizzy Plushie",
+  "item.plushdronesreassembledmod.thad_plushie": "Thad Plushie",
+  "block.plushdronesreassembledmod.thad_plushie": "Thad Plushie",
+
+  "item.plushdronesreassembledmod.eternal_dream_music_disc": "Music Disc",
+  "item.plushdronesreassembledmod.eternal_dream_music_disc.desc": "AJ DiSpirito - Eternal Dream (feat. Elsie Lovelock)",
+  "item.plushdronesreassembledmod.forever_music_disc": "Music Disc",
+  "item.plushdronesreassembledmod.forever_music_disc.desc": "AJ DiSpirito - FOREVER",
+
+  "item.plushdronesreassembledmod.drone_core_base": "Empty Drone Core",
+  "item.plushdronesreassembledmod.drone_rotten_core_base": "Empty Rotten Drone Core",
+  "item.plushdronesreassembledmod.uzi_core": "Uzi's Core",
+  "item.plushdronesreassembledmod.n_core": "N's Core",
+  "item.plushdronesreassembledmod.v_core": "V's Core",
+  "item.plushdronesreassembledmod.j_core": "J's Core",
+  "item.plushdronesreassembledmod.cyn_core": "Cyn's Core",
+  "item.plushdronesreassembledmod.doll_core": "Doll's Core",
+  "item.plushdronesreassembledmod.lizzy_core": "Lizzy's Core",
+  "item.plushdronesreassembledmod.thad_core": "Thad's Core",
+
+
+  "category.plushdronesreassembledmod.main": "Plush Drones: Reassemble"
+}

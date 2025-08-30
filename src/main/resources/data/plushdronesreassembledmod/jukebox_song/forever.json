@@ -1,0 +1,8 @@
+{
+  "comparator_output": 8,
+  "description": {
+    "translate": "item.plushdronesreassembledmod.forever_music_disc.desc"
+  },
+  "length_in_seconds": 62.0,
+  "sound_event": "plushdronesreassembledmod:forever"
+}

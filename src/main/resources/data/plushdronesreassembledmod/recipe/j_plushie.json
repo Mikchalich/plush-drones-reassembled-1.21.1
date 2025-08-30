@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "BBO",
+    "BCB"
+  ],
+  "key" : {
+    "G": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "O": {
+      "item": "minecraft:orange_wool"
+    },
+    "C": {
+      "item": "plushdronesreassembledmod:j_core"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:j_plushie",
+    "count": 1
+  }
+}

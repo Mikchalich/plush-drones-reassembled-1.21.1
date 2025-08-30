@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PDP",
+    "G#S",
+    "PBP"
+  ],
+  "key" : {
+    "#": {
+      "item": "plushdronesreassembledmod:drone_core_base"
+    },
+    "B": {
+      "item": "minecraft:writable_book"
+    },
+    "S": {
+      "item": "minecraft:spyglass"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "P": {
+      "item": "minecraft:pink_dye"
+    }
+  },
+  "result": {
+    "id": "plushdronesreassembledmod:lizzy_core",
+    "count": 1
+  }
+}
